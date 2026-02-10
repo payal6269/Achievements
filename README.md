@@ -2,7 +2,7 @@
 My professional certifications and course achievements
 # 🎓 Certifications
 
-## 🏆 Codefiesta Hackathon 4.0 (24-Hour Hackathon)
+## 🏆 Codefiesta Hackathon 4.0 (48-Hour Hackathon)
 - **Organized by:** Global Institute of Technology, Jaipur  
 - **Event:** CODEFIESTA 4.0 – Global Innovation Community Technology Hackathon  
 - **Duration:** 42 Hours  
@@ -12,7 +12,7 @@ My professional certifications and course achievements
 ---
 
 ## 📌 Highlights
-- Participated in a 24-hour national-level hackathon  
+- Participated in a 48-hour national-level hackathon  
 - Gained hands-on experience in problem solving & teamwork  
 - Exposure to real-world technical challenges  
 - Improved collaboration and rapid development skills  
